@@ -1,3 +1,6 @@
+[![Kaggle Badge](https://img.shields.io/badge/-thisisrishi-blue?style=flat&logo=kaggle&logoColor=white&logoWidth=40)](https://www.kaggle.com/thisisrishi/ "Connect on Kaggle")&nbsp;&nbsp;&nbsp;
+
+
 This EDA (Exploratory Data Analysis) project on GitHub is aimed at providing an in-depth analysis of a given dataset using Python libraries such as Pandas, Numpy, and Matplotlib.
 
 This project is an excellent starting point for beginners in data analysis who want to learn how to visualize and understand a dataset's features, trends, and relationships.
@@ -8,4 +11,3 @@ The EDA project covers essential topics such as data cleaning, handling missing 
 
 Contributions to this project are welcome, and users are encouraged to provide feedback and suggestions for improvement.
 
-Kaggle: https://www.kaggle.com/thisisrishi
